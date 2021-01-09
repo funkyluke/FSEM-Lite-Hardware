@@ -1,0 +1,7 @@
+Added Component: Designator=R?(500mR)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "WSBM8518L5000"; VariantName = "[No Variations]"
+Added Component: Designator=U?(VSSOP10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "INA229AQDGSRQ1"; VariantName = "[No Variations]"
+Added Class: Name=EM-Lite
